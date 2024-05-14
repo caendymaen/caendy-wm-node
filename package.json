@@ -1,0 +1,19 @@
+{
+  "name": "caendy-apps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dbus-next": "^0.10.2",
+    "express": "^4.19.2"
+  }
+}
